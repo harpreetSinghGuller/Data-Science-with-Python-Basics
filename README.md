@@ -1,2 +1,2 @@
-# Data-Science-with-Python-Basics
-Basic Tutorials in python for Data Science
+# Data-Science-with-Python-
+Basic Algorithms in python for Data Science
